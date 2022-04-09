@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee935753.css",
+    "main.js": "/static/js/main.879e1b85.js",
+    "static/media/photo.jpg": "/static/media/photo.b7e0c4a63d238ab9a7b2.jpg",
+    "static/media/keyboard.jpg": "/static/media/keyboard.3c597763de9a148d7273.jpg",
+    "static/media/guitar.png": "/static/media/guitar.7810ba5e4caabd3c2f4d.png",
+    "static/media/climb.png": "/static/media/climb.578ff1811712d303091a.png",
+    "static/media/bass.png": "/static/media/bass.80e727236444114f4193.png",
+    "static/media/flute.png": "/static/media/flute.4563e1783e6846fbd0e9.png",
+    "static/media/united-kingdom-flag-round-icon-256.png": "/static/media/united-kingdom-flag-round-icon-256.635d1b89063e36f4e60e.png",
+    "index.html": "/index.html",
+    "main.ee935753.css.map": "/static/css/main.ee935753.css.map",
+    "main.879e1b85.js.map": "/static/js/main.879e1b85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee935753.css",
+    "static/js/main.879e1b85.js"
+  ]
+}
